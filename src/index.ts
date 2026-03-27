@@ -2,6 +2,7 @@
 export { Button } from "./components/Button";
 export { AppSwitcher } from "./components/AppSwitcher";
 export type { AppSwitcherApp } from "./components/AppSwitcher";
+export { LoadingScreen } from "./components/LoadingScreen";
 
 // Lib
 export { createApiClient, ApiError } from "./lib/api";
